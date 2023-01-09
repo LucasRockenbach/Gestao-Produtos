@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="cssLogin.css">
 </head>
 <body>
-    <form class="form" action="http://localhost/projetoIntegrador/login.php" method="POST" onsubmit="return confirm('Confirma ação')">
+    <form class="form" action="http://localhost/Integrador2Semestre/login.php" method="POST" onsubmit="return confirm('Confirma ação')">
         <div class="login">
            <img class="logo" src="img/luli2.png" alt="logo">
         <div class="email">
@@ -19,7 +19,7 @@
         <input class="campo" type="password" name="senha" placeholder="senha"><p></p>
       </div>
       <div class="info">
-       <a href="http://localhost/projetointegrador/criarUsuario.php">Nao tem uma conta? Clique aqui</a><br>
+       <a href="http://localhost/Integrador2Semestre/criarUsuario.php">Nao tem uma conta? Clique aqui</a><br>
       </div>
       <div class="btn">
         <button type ="submit" class="submit">Login</button>
@@ -57,7 +57,7 @@
              $_SESSION['user'] = $usuario['cnpj_usuario'];
              $_SESSION['name'] = $usuario ['nome'];
              
-             header("Location: http://localhost/projetointegrador/index.php");
+             header("Location: http://localhost/Integrador2Semestre/index.php");
 
           }else{
             echo "Falha ao logar";

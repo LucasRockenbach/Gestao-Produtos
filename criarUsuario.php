@@ -10,7 +10,7 @@
 
                 
 
-<form class="form1" action="http://localhost/projetointegrador/criarUsuario.php" method="POST">
+<form class="form1" action="http://localhost/Integrador2Semestre/criarUsuario.php" method="POST">
   
   <div class="login" style="width: 15em; text-align: center;">
      <div class="razao" style="text-align: center;">

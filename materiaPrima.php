@@ -10,7 +10,7 @@
 <body>
 
     <header>
-    <a href="http://localhost/projetointegrador/index.php">   <img src="img/lulilogo.png" alt=""> </a>
+    <a href="http://localhost/Integrador2Semestre/index.php">   <img src="img/lulilogo.png" alt=""> </a>
     </header>
 
 <div class="container">

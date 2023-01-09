@@ -14,16 +14,16 @@
     <div class="navegaçao">
         <div class="barra">
         
-          <a class="link" href="http://localhost/projetointegrador/materiaPrima.php">Materia Prima</a>
+          <a class="link" href="http://localhost/Integrador2Semestre/materiaPrima.php">Materia Prima</a>
         </div>
         <div class="barra">
-        <a class="link" href="http://localhost/projetointegrador/produtos.php">Produto</a>
+        <a class="link" href="http://localhost/Integrador2Semestre/produtos.php">Produto</a>
         </div>
         <div class="barra">
-        <a class="link" href="http://localhost/projetointegrador/fornecedor.php">Fornecedor</a>
+        <a class="link" href="http://localhost/Integrador2Semestre/fornecedor.php">Fornecedor</a>
         </div>
         <div class="barra">
-        <a href="http://localhost/projetoIntegrador/login.php">Sair</a>
+        <a href="http://localhost/Integrador2Semestre/login.php">Sair</a>
         </div>
      
         <div>
