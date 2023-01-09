@@ -1,0 +1,80 @@
+input[type="text"],
+input[type="password"],
+select.form-control {
+    color: black;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #000000;
+    box-shadow: none;
+}
+
+    .login{
+    background-color: #fafafa;
+    padding-top: 3em;
+    padding-right: 5em;
+    padding-left: 3em;
+    padding-bottom: 3em;
+    margin-top: 2.5em;
+    width: 11em;
+    margin-left: 8em;
+    text-align: left;
+    border-radius: 2em;
+    font-family: arial;
+}
+.campo{
+    color: black;
+    padding: 10px;
+    margin-top: 15px;
+}
+.btn{
+    text-align: center;
+    margin-top: 2em;
+    padding-left: 2em;
+    
+    
+}
+.submit{
+    border-radius: 5em;
+    font-size: 20px;
+    border: none;
+    background-color: #3597fd;
+    color: #fafafa;
+    width: 6em;
+    }
+    .submit:hover{
+        background-color:#017cff ;
+    }
+    .gif{
+     margin-left: 35em;
+     margin-top: -23em;
+    }
+    .logo{
+        width: 150px;
+        margin-left: 2em;
+    }
+    a{
+        
+        text-decoration: none;
+        color: black;
+        text-align: center;
+        font-size: 0.7em;
+        margin-left: 1em;
+        padding-top: 2em;
+    }
+    .icons{
+        width: 1.5em;
+
+
+    }
+    .email{
+
+        margin-top: 2em;
+    }
+    .senha{
+
+        margin-top: 3em;
+        
+    }
+    .info{
+        padding-top: 2em;
+    }

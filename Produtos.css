@@ -1,0 +1,108 @@
+
+body {
+    background: #fff;
+  }
+  
+  a{
+    text-decoration: none;
+    font-family: arial;
+    color:rgb(35, 83, 214);
+    
+  }
+  
+  
+   img{
+      height: 125px;
+      width: 125px;
+      margin-left: 2.5rem;
+  
+   }
+  
+  .menulateral{
+    
+      border-right: 0.15em solid rgb(0, 0, 0);
+      display:flex;
+      padding-right: 1em;
+      flex-direction: column;
+      padding: 2rem;
+      margin-top: 5%;
+  }
+  
+  .linknav{
+          text-align: center;
+          font-family: "roboto", sans-serif;
+          font-size:larger;
+          color:rgb(35, 83, 214);
+          margin: .5rem .5rem ;
+  }
+  
+  .titulo {
+    text-align: center;
+    color: #325adb;
+  }
+  
+  .busca{
+    width: 15rem;
+    border: none;
+    padding: 0.2rem;
+    margin-left: 2.5rem;
+    border-radius: 0.8rem;
+  }
+  
+  .caixa{
+    background-color: rgb(135, 135, 135, 0.5);
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+    border-radius: 1rem;
+    padding: 1rem;
+    margin: .5rem .5rem ;
+    
+  }
+  
+  .produto{
+    margin: 0.2rem 35rem 0.5rem 0;
+    padding: 0.5rem;
+    background-color: #fff;
+    border: none;
+    border-radius: 1.5rem;
+    font-weight: bold;
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid #000;
+  }
+  
+  ul, li {
+    list-style-type: none;
+  }
+  
+  .container{
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      width: 100%;
+  
+  }
+  
+  div.containerlista{
+      width: 90%;
+  
+  }
+  header{
+      width: 100%;
+  
+  }
+  button{
+      border-radius: 4px;
+      outline: none;
+      border: 1px solid #000;
+      cursor: pointer;
+  }
+  button:hover{
+      background-color: rgb(154, 176, 232);
+  }
+  .cadastrar{
+    margin-left: 50em;
+    margin-top: -1em;
+  }

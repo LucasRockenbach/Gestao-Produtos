@@ -1,0 +1,30 @@
+
+.logo{
+    width: 9em;
+    margin-left: 3em;
+    margin-top: 1em;}
+
+    a{
+        text-decoration: none;
+        font-family: Arial;
+        font-size: 1.65em;
+        color: white;
+        background-color: #407BFF;
+        border-radius: 0.4em;
+        padding: 0.35em;
+       }
+       a:hover{
+        background-color: blue;
+       }
+
+       .gif{
+        margin-left: 25em;
+        margin-top: -27em;
+        
+       }
+       .barra{
+        padding: 2em;
+       }
+       .navegaçao{
+        margin-top: 4em;
+       }

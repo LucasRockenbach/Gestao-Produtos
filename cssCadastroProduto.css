@@ -1,0 +1,73 @@
+
+  
+  a{
+    text-decoration: none;
+    color: #000;
+  }
+  
+   img{
+      height: 125px;
+      width: 125px;
+      margin-left: 2.5rem;
+  
+   }
+  
+
+  
+  .Nome{
+          text-align: center;
+          font-family: "roboto", sans-serif;
+          font-size:larger;
+          color:rgb(35, 83, 214);
+          margin: .5rem .5rem ;
+  }
+  
+  .titulo {
+    text-align: center;
+    color: #325adb;
+  }
+
+  .menu{
+    
+    border-right: 1px solid rgb(0, 0, 0);
+    display:flex;
+    padding-right: 1em;
+    flex-direction: column;
+    padding: 2rem;
+    margin-top: 5%;
+}
+
+div.box{
+    
+    background-color: rgb(135, 135, 135, 0.5);
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+    border-radius: 2px;
+    padding: 15px;
+    margin: 70px;
+    width: 864px;
+    height: 491px;
+    left: 171px;
+    top: 56px;
+
+}
+
+div.caixa{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+
+}
+div.teko{
+    padding-top: 7mm;
+    width: 100%
+}
+
+input {
+    width: 90%;
+}
+body {
+    background: #fff;
+  }
